@@ -1,0 +1,28 @@
+git init 
+git clone
+ls- list of folders or files
+ls -ls
+
+cd - navigate to folder
+ls -la hidden files
+
+mkdir- make folders
+vim filename.extensions
+touch filename.extension(only create file name)
+cat filename
+
+
+
+git status --check the track or untrack
+
+
+git add --all
+git add  any file name.extension(php or html or js)
+git add .php(" ")
+
+git commit-m
+
+
+git config –-global user.name “SreeNaidu-Dev”
+
+git log - updates changes who do
